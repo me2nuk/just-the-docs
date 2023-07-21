@@ -128,7 +128,7 @@ HTML는 꺽쇠 괄호로 둘러싸인 형태로 태그를 만듭니다.
 
 예시를 보여주자면
 
-<div class="code-example" html="1">
+<div class="code-example" markdown="1">
     <div style="background:#000;">
         Hello World!
     </div>
@@ -137,10 +137,7 @@ HTML는 꺽쇠 괄호로 둘러싸인 형태로 태그를 만듭니다.
 <br>
 
 #### > HTML Code
-
 {: .no_toc }
-
-</div>
 ```html
 <div style="background:#000;">
         Hello World!
@@ -148,6 +145,7 @@ HTML는 꺽쇠 괄호로 둘러싸인 형태로 태그를 만듭니다.
 <br>
 <p style="color:red;">Hello red!</p>
 ```
+</div>
 
 이렇게 ``div, br, p`` 태그를 이용하여 각 원하는 영역을 가지고 만들어져있는것을 볼 수 있습니다.
 
