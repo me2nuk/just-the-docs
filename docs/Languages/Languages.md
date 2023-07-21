@@ -11,7 +11,7 @@ description: "HTTP는 (HyperText Transfer Protocol)으로 WWW(W3)상에서 정�
 {: .no_toc }
 
 
-HTTP는 (HyperText Transfer Protocol)으로 WWW(W3)상에서 정보를 주고 받기 위한 프로토콜입니다.
+프로그래밍 언어, 프레임 워크 등 다양한 문법에 대해 작성한 문서입니다.
 {: .fs-6 .fw-300 }
 
 ---
