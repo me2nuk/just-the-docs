@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HTTP/HTTPS
+title: Languages
 nav_order: 5
 has_children: true
 permalink: /docs/languages
