@@ -128,13 +128,14 @@ HTML는 꺽쇠 괄호로 둘러싸인 형태로 태그를 만듭니다.
 
 예시를 보여주자면
 
-<div class="code-example" markdown="1">
-    <div style="background:#000;">
-        Hello World!
-    </div>
-    <br>
-    <p style="color:red;">Hello red!</p>
+<div style="background:#000;">
+    Hello World!
+</div>
 <br>
+<p style="color:red;">Hello red!</p>
+<br>
+
+<div class="code-example" markdown="1">
 
 #### > HTML Code
 {: .no_toc }
