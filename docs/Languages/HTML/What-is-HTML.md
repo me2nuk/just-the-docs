@@ -3,7 +3,7 @@ layout: default
 title: What is HTML?
 parent: HTML
 nav_order: 1
-permalink: /docs/HTML/What-is-HTML
+permalink: /docs/languages/HTML/What-is-HTML
 description: "HTML는 하이퍼텍스트 마크업 언어(HyperText Markup Language)이며 꺾쇠 괄호로 둘러싸인 태그로 작성한다."
 ---
 
