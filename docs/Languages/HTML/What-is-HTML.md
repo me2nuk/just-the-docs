@@ -2,6 +2,7 @@
 layout: default
 title: What is HTML?
 parent: HTML
+grand_parent: Languages
 nav_order: 1
 permalink: /docs/languages/HTML/What-is-HTML
 description: "HTML는 하이퍼텍스트 마크업 언어(HyperText Markup Language)이며 꺾쇠 괄호로 둘러싸인 태그로 작성한다."
@@ -127,7 +128,7 @@ HTML는 꺽쇠 괄호로 둘러싸인 형태로 태그를 만듭니다.
 
 예시를 보여주자면
 
-<div class="code-example" markdown="1">
+<div class="code-example" html="1">
     <div style="background:#000;">
         Hello World!
     </div>
@@ -138,7 +139,7 @@ HTML는 꺽쇠 괄호로 둘러싸인 형태로 태그를 만듭니다.
 #### > HTML Code
 {: .no_toc }
 </div>
-```markdown
+```html
 <div style="background:#000;">
         Hello World!
 </div>
