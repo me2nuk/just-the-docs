@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Languages
+title: Languages Basic
 nav_order: 5
 has_children: true
-permalink: /docs/languages
+permalink: /docs/languages-basic
 description: "HTTP는 (HyperText Transfer Protocol)으로 WWW(W3)상에서 정보를 주고 받기 위한 프로토콜입니다."
 ---
 

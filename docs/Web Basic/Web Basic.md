@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Web Basic
-nav_order: 6
+nav_order: 7
 has_children: true
 permalink: /docs/web-basic
 description: "기본적인 웹에 대한 다양한 용어와 지식을 정리한 글입니다."

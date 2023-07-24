@@ -32,3 +32,5 @@
     {% endif %}
   </footer>
 {% endif %}
+
+<script>[...document.querySelectorAll(".rouge-table > tbody > tr > td.rouge-code > pre")].filter( (container) => { container.innerHTML = container.innerHTML.split('\n').map((x) => {return x.trim() }).join("\n"); });</script>

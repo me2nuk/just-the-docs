@@ -6,14 +6,13 @@ description: "안녕하세요. me2nuk으로 활동하는 김민욱입니다."
 permalink: /about
 ---
 
-# Focus on writing good documentation
+# me2nuk Blog
 {: .fs-9 }
 
 안녕하세요! 김민욱(me2nuk)입니다. 주 분야응 웹 해킹이며, 그 외에도 블록체인에 관심 있습니다.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View it on GitHub][Just the Docs repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
+[About Me][about]{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }[View it on GitHub][Just the Docs repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -88,7 +87,7 @@ permalink: /about
 
     + [세명컴퓨터고등학교 스마트보안솔루션과 기능경기대회 2th - "세명컴퓨터고등학교장 상"]()
     + [세명컴퓨터고등학교 스마트보안솔루션과 SMC CTF 1th - "세명컴퓨터고등학교장 상"]()
-    + [Hacking Camp 22회 CTF 2th](/files/HackingCamp/CTF-2th.png)
+    + [Hacking Camp 22회 CTF 2th]()
     + [제 7회 정보보호영재교육원 정보보안 경진대회 단체전 1위 - "부총리 겸 교육부 장관상" ]()
     + [영남이공대학교 The Hacking Championship Junior CTF 4th - "스틸리언 대표 이사 상"](http://news.unn.net/news/articleView.html?idxno=517151)
     + [사이버가디언즈 경진대회 CTF 4th - "한국정보기술연구원장상"](https://www.facebook.com/dreamhack.io/photos/a.124467269979127/127564286336092)
@@ -116,4 +115,5 @@ permalink: /about
   + [Python requests 모듈 분석 및 가이드 작성](https://me2nuk.com/Python-requests-module-example/)
   + KITRI BOB 11th ( 전자상거래플랫폼 취약점 분석 Team )
 
-[Just the Docs repo]: https://github.com/just-the-docs/just-the-docs
+[about]: /about
+[Just the Docs Repo]: https://github.com/me2nuk/just-the-docs

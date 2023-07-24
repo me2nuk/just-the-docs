@@ -3,7 +3,7 @@ layout: default
 title: css
 nav_order: 2
 has_children: true
-parent: Languages
+parent: Languages Basic 
 permalink: /docs/languages/css
 description: "CSS(Cascading Style Sheets)는 구조화 된 문서에 렌더링시킬 수 있는 언어입니다. "
 ---
